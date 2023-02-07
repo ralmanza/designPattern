@@ -1,4 +1,4 @@
-package org.designpattern.exercise.decorator;
+package org.designpattern.exercise.decorator.pizza_decorator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

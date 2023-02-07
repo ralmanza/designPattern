@@ -1,6 +1,10 @@
-package org.designpattern.exercise;
+package org.designpattern.exercise.decorator.pizza_decorator;
 
-import org.designpattern.exercise.decorator.*;
+import org.designpattern.exercise.decorator.pizza_decorator.FamilyPizza;
+import org.designpattern.exercise.decorator.pizza_decorator.HawaiianPizza;
+import org.designpattern.exercise.decorator.pizza_decorator.MargheritaPizza;
+import org.designpattern.exercise.decorator.pizza_decorator.Pizza;
+import org.designpattern.exercise.decorator.pizza_decorator.SalamiPizza;
 
 public class Main {
     public static void main(String[] args) {
